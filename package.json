@@ -1,0 +1,30 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "NodeJS app to show off skills",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miningape/portfolio-kylejohnson.git"
+  },
+  "keywords": [
+    "NODEJS",
+    "NodeJS",
+    "Heroku",
+    "WEBSITE",
+    "website"
+  ],
+  "author": "Kyle Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miningape/portfolio-kylejohnson/issues"
+  },
+  "homepage": "https://github.com/miningape/portfolio-kylejohnson#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
